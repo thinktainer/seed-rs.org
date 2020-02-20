@@ -103,7 +103,7 @@ be a versatile, standardized toolkit.
 
 - The [WASM-Bindgen](https://github.com/rustwasm/wasm-bindgen) team,
   for building the tools this project relies on
-- Alex Chrichton, for being extraodinarily helpful in the Rust / WASM community
+- Alex Crichton, for being extraodinarily helpful in the Rust / WASM community
 - The [Elm](https://elm-lang.org/) team, for creating and standardizing the Elm architecture
 - Mozilla, for excellent DOM documentation
 - Denis Kolodin, for creating the inspirational [Yew framework](https://github.com/DenisKolodin/yew)
